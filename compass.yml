@@ -1,0 +1,16 @@
+name: spec-kit
+id: ari:cloud:compass:71cf5732-a3c7-4a15-ad58-bf9e117b9b8f:component/3ebddbfb-cb26-42bf-b18d-7a4308c49002/e4bfee9f-b856-445e-9629-1e0014a036ed
+description: 💫 Toolkit to help you get started with Spec-Driven Development
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Rancho-Las-Maravillas/spec-kit
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
